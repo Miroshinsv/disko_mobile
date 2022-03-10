@@ -225,5 +225,5 @@ doc/api/
 
 
 #Flutter
-
+*.env
 
